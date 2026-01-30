@@ -1,0 +1,1 @@
+- [x] Update auth.ts to use sessionStorage instead of localStorage for token management
